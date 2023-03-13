@@ -1,0 +1,5 @@
+Class level:
+Generic classes which cannot be instantiated due to not being a physical specific object.
+
+Method level:
+Generic methods must be overrided on the extended classes.

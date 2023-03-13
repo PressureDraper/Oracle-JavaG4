@@ -1,0 +1,3 @@
+- Doesn't have implemented methods.
+- All methods are abstract.
+- Doesn't have vars.
